@@ -43,3 +43,15 @@ A collection of common Angular 2 snippets Typescript
 
 * ngModel -> Creates a snippet for ngModel directive.
 
+## HTML - Inputs
+
+* ng2_input -> Create a simple Input
+
+* ng2_input_label -> Create an Input with it's label
+
+## HTML - Click
+
+* ng2_a.click -> Create an link with click attribute
+
+* ng2_button.click -> Create a button with click attribute
+
